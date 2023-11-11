@@ -2,7 +2,7 @@
 # SMS/Email Spam Classifier Web Application
 
 Link : https://ml-app-spam-classifier.streamlit.app
-
+![Spam Classifier Screenshot](<img width="1440" alt="Screenshot 2023-11-11 at 8 56 27 AM" src="https://github.com/rajaamani/ml-streamlit-spam-classifier/assets/101103515/c2f5e95f-67b1-4ba2-8913-9519a31e5a11">)
 ## Overview
 
 This is a simple web application that allows users to classify SMS and email messages as either "spam" or "not spam" (ham). It utilizes a machine learning model trained on a labeled dataset to make predictions.
